@@ -4,7 +4,7 @@ This is a python Tkinter program to simulate a 16x32 LED Matrix
 to enable the user to 'draw' on it and get the resulting data
 in a list for displaying on a real LED matrix.
 
-version 0.3.2 by Haoxi Tan
+by Haoxi Tan
 -the goal of this version is to also be able to output the result to a file and
 so that i can be extracted by another program.
 '''
