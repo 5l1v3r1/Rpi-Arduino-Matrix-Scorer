@@ -321,9 +321,9 @@ void loop()
   }
   
   dmd.selectFont(Droid_Sans_24); //a bigger font for the score
-  dmd.drawString(20,26,score1);
+  dmd.drawString(13,26,score1);
   dmd.drawString(44,24,"-");
-  dmd.drawString(56,26,score2);
+  dmd.drawString(57,26,score2);
   
    if (  millis() - previousMillis > timeoutInterval )
   {
